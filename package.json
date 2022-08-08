@@ -1,0 +1,12 @@
+{
+    "name": "rmmz-game",
+    "main": "index.html",
+    "chromium-args": "--force-color-profile=srgb",
+    "window": {
+        "title": "Caos no Horizonte",
+        "width": 528,
+        "height": 960,
+        "position": "center",
+        "icon": "icon/icon.png"
+    }
+}
